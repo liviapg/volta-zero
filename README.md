@@ -18,7 +18,7 @@ Classificação de concessão de cartões de crédito e metodologia CRISP - DM
 
 ## Exercícios Módulo 3 Aulas 1 a 4
 <div align="justify">
-Conceitos básicos de Python 
+Elementos básicos de Python e Numpy - Parte I
 </div>
 
 [Link para notebook](https://github.com/liviapg/volta-zero/blob/main/Atividades%20Ebac/Mod03_Ex01%20-%20Python%20basico.ipynb)
