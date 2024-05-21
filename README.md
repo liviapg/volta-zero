@@ -1,5 +1,6 @@
-# Notebooks iPython EBAC
-Coleção de notebooks iPython.
+# Notebooks iPython EBAC 
+
+Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânica de Artes Criativas & Tecnologia (EBAC)
 
 ## Python para Análise de Dados
 
