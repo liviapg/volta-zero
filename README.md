@@ -7,7 +7,7 @@ Exploração de dados de crédito de uma instituição financeira, com o intuito
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades%20Ebac/Projeto_Final_Python_An%C3%A1lise_Dados_Inadimpl%C3%AAncia.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_Final_Python_An%C3%A1lise_Dados_Inadimpl%C3%AAncia.ipynb)
 
 
 ## Projeto 1 Módulo 3
@@ -16,7 +16,7 @@ Classificação de concessão de cartões de crédito e metodologia CRISP - DM.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades%20Ebac/Projeto_01%20-%20Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_01%20-%20Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito.ipynb)
 
 ## Módulo 3 
 <div align="justify">
@@ -24,4 +24,4 @@ Elementos básicos de Python e Numpy - Parte I.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades%20Ebac/Mod03_Ex01%20-%20Python%20basico.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/c20f904c2e3a46952ee96a54e72560244aaeb2af/Atividades_Ebac/Mod03_Ex01%20-%20Python%20basico.ipynb)
