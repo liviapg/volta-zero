@@ -1,7 +1,9 @@
 # Notebooks iPython EBAC
 Coleção de notebooks iPython.
 
-## Projeto Final Python Análise de Dados de Inadimplência
+## Python para Análise de Dados
+
+### Projeto Final de Python - Análise de Dados de Inadimplência
 <div align="justify">
 Exploração de dados de crédito de uma instituição financeira, com o intuito de trabalhar se um cliente é adimplente ou inadimplente (variável dependente representada pela coluna default). Visando assim entender o que faz um cliente desta mesma instituição deixar de honrar suas dívidas, tendo como base além do atributo de interesse, outros atributos como, por exemplo: salário, escolaridade, movimentação financeira, entre outros.
 </div>
@@ -9,18 +11,19 @@ Exploração de dados de crédito de uma instituição financeira, com o intuito
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_Final_Python_An%C3%A1lise_Dados_Inadimpl%C3%AAncia.ipynb)
 
+## Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM
 
-## Projeto 1 Módulo 3
+### Metodologia (M2)
 <div align="justify">
-Classificação de concessão de cartões de crédito e metodologia CRISP - DM.
+Atividade para trabalhar etapas da metodologia CRISP - DM, envolvendo o desenvolvimento de um projeto guiado para a classificação de concessão de cartões de crédito e avaliação de clientes inadimplentes.
 </div>
 <br />
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_01%20-%20Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito.ipynb)
 
-## Módulo 3 
+### Elementos Básicos de Python e Numpy - Parte I (M3)
 <div align="justify">
-Elementos básicos de Python e Numpy - Parte I.
+Exercícios para trabalhar conceitos básicos de Python e Numpy.
 </div>
 <br />
 
