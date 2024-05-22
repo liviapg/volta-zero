@@ -37,3 +37,17 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 <br />
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod03ex02%20instrucao.ipynb)
+
+### Python em Ciência de Dados
+<div align="justify">
+Introdução ao Pandas e Carga de Dados.
+</div>
+<br />
+
+#### Exercícios
+<div align="justify">
+Pratique 1 - aulas 1 e 2.
+</div>
+<br />
+
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Mod04%20-%20Tarefa%20aula%2001%20e%2002.ipynb)
