@@ -2,7 +2,10 @@
 
 Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânica de Artes Criativas & Tecnologia (EBAC).
 
+<br />
+
 ## Python para Análise de Dados
+
 
 ### Projeto Final de Python - Análise de Dados de Inadimplência
 <div align="justify">
@@ -12,15 +15,20 @@ Exploração de dados de crédito de uma instituição financeira, com o intuito
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_Final_Python_An%C3%A1lise_Dados_Inadimpl%C3%AAncia.ipynb)
 
+<br />
+
 ## Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM
 
 ### Metodologia (Módulo 2)
 <div align="justify">
 Atividade para trabalhar etapas da metodologia CRISP - DM, envolvendo o desenvolvimento de um projeto guiado para a classificação de concessão de cartões de crédito e avaliação de clientes inadimplentes.
 </div>
+
 <br />
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_01%20-%20Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito.ipynb)
+
+<br />
 
 ### Elementos Básicos de Python e Numpy - Parte I (Módulo 3)
 <div align="justify">
@@ -30,6 +38,8 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/c20f904c2e3a46952ee96a54e72560244aaeb2af/Atividades_Ebac/Mod03_Ex01%20-%20Python%20basico.ipynb)
 
+<br />
+
 ### Elementos Básicos de Python e Numpy - Parte II (Módulo 3)
 <div align="justify">
 Exercícios para trabalhar conceitos básicos de Python e Numpy.
@@ -38,11 +48,13 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod03ex02%20instrucao.ipynb)
 
+<br />
+
 ### Python em Ciência de Dados (Módulo 4)
 <div align="justify">
 Introdução ao Pandas e carga de dados.
 </div> 
-<br /> 
+
 
 #### Exercícios
 <div align="justify">
