@@ -40,9 +40,9 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 
 ### Python em Ciência de Dados
 <div align="justify">
-Introdução ao Pandas e Carga de Dados.
-</div>
-<br />
+Introdução ao Pandas e carga de dados.
+</div> 
+<br /> 
 
 #### Exercícios
 <div align="justify">
