@@ -62,14 +62,14 @@ Pratique 1 - aulas 1 e 2.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod04%20_ex_aula_01_e_02.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod04_ex_aula_01_e_02.ipynb)
 
 <div align="justify">
 Pratique 2 - aulas 3 a 5.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod04%20_ex_aula_03_a_05.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod04_ex_aula_03_a_05.ipynb)
 
 <div align="justify">
 Pratique 3 - aulas 6 a 8.
