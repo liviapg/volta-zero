@@ -13,7 +13,7 @@ Exploração de dados de crédito de uma instituição financeira, com o intuito
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_Final_Python_An%C3%A1lise_Dados_Inadimpl%C3%AAncia.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/projeto_final_python_analise_dados_inadimplencia.ipynb)
 
 <br />
 
@@ -26,7 +26,7 @@ Atividade para trabalhar etapas da metodologia CRISP - DM, envolvendo o desenvol
 
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Projeto_01%20-%20Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/projeto_01_classifica%C3%A7%C3%A3o_de_cr%C3%A9dito.ipynb)
 
 <br />
 
