@@ -26,7 +26,7 @@ Atividade para trabalhar etapas da metodologia CRISP - DM, envolvendo o desenvol
 
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/projeto_01_classifica%C3%A7%C3%A3o_de_cr%C3%A9dito.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/projeto_01_classificacao_de_credito.ipynb)
 
 <br />
 
@@ -36,7 +36,7 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/c20f904c2e3a46952ee96a54e72560244aaeb2af/Atividades_Ebac/Mod03_Ex01%20-%20Python%20basico.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod03_ex01_python_basico.ipynb)
 
 <br />
 
@@ -46,7 +46,7 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod03ex02%20instrucao.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod03_ex02_instrucao.ipynb)
 
 <br />
 
@@ -62,14 +62,14 @@ Pratique 1 - aulas 1 e 2.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Mod04%20-%20Tarefa%20aula%2001%20e%2002.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod04%20_ex_aula_01_e_02.ipynb)
 
 <div align="justify">
 Pratique 2 - aulas 3 a 5.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/d3fde16017791fc7a588dde7bb3a495720b6134a/Atividades_Ebac/Mod04%20-%20Tarefa%20aula%2003%20a%2005%20(base).ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod04%20_ex_aula_03_a_05.ipynb)
 
 <div align="justify">
 Pratique 3 - aulas 6 a 8.
