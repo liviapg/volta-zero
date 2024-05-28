@@ -24,7 +24,7 @@ Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânic
    3.[Python em Ciência de Dados](#python-em-ciência-de-dados-módulo-4)
 
    - Pandas e carga de dados
-   -Limpeza e preparação de dados
+   - Limpeza e preparação de dados
    - Descritiva I
    - Árvores I
    - Git/GitHub - controle de versionamento
