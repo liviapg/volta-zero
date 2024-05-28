@@ -90,7 +90,6 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 Atividades para trabalhar com DataFrames e Series e interação com APIs da Web e banco de dados.
 </div> 
 
-<br />
 
 #### Exercícios
 <div align="justify">
