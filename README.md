@@ -7,20 +7,27 @@ Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânic
 ## Sumário
 
   1.[Python para Análise de Dados](#python-para-análise-de-dados)
-
-   - [Projeto Final](#projeto-final-de-python---análise-de-dados-de-inadimplência)
-
+  - Variáveis e tipos da dados
+  - Estrutura de dados
+  - Fluxo condicional e repetição
+  - Arquivos e funções
+  - Programação funcional e orientada a objetos
+  - Módulos e pacotes
+  - Tratamento de erros, scripting e análise de dados
+  - Projeto Final
+   
   2.[Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM](#desenvolvimento-em-ciência-de-dados-e-metodologia-crisp---dm)
 
-   - [Metodologia](#metodologia-módulo-2)
-
-   - [Elementos Básicos de Python e Numpy - Parte I](#elementos-básicos-de-python-e-numpy---parte-i-módulo-3)
-
-   - [Elementos Básicos de Python e Numpy - Parte II](#elementos-básicos-de-python-e-numpy---parte-ii-módulo-3)
+  - Metodologia CRISP-DM
+  - Elementos básicos de Python e Numpy
 
    3.[Python em Ciência de Dados](#python-em-ciência-de-dados-módulo-4)
 
-   - [Exercícios - Pandas e Carregamento de Dados](#exercícios)
+   - Pandas e carga de dados
+   -Limpeza e preparação de dados
+   - Descritiva I
+   - Árvores I
+   - Git/GitHub - controle de versionamento
 
 <br />
 
