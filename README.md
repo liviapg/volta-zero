@@ -21,7 +21,7 @@ Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânic
   - Metodologia CRISP-DM
   - Elementos básicos de Python e Numpy
 
-   3.[Python em Ciência de Dados](#python-em-ciência-de-dados-módulo-4)
+   3.[Python em Ciência de Dados](#python-em-ciência-de-dados)
 
    - Pandas e carga de dados
    - Limpeza e preparação de dados
