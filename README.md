@@ -77,11 +77,12 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 
 <br />
 
-### Python em Ciência de Dados (Módulo 4)
-<div align="justify">
-Introdução ao Pandas e carga de dados.
-</div> 
+## Python em Ciência de Dados
 
+### Introdução ao Pandas e Carga de Dados (Módulo 4)
+<div align="justify">
+Atividades para trabalhar com DataFrames e Series e interação com APIs da Web e banco de dados.
+</div> 
 
 #### Exercícios
 <div align="justify">
