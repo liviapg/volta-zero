@@ -76,4 +76,4 @@ Pratique 3 - aulas 6 a 8.
 </div>
 <br />
 
-[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/Mod04%20Tarefa%20aulas%2006%20a%2008.ipynb)
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod04_ex_aula_06_a_08.ipynb)
