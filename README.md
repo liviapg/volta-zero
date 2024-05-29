@@ -16,7 +16,7 @@ Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânic
 
 ## 1.Python para Análise de Dados
 <div align="justify">
-Tópicos abordados:  variáveis e tipos da dados; estrutura de dados; fluxo condicional e de repetição; arquivos e funções; programação funcional e orientada a objetos; importação de módulos e pacotes; tratamento de erros; scripting e análise de dados. 
+Tópicos abordados:  variáveis e tipos da dados; estrutura de dados; fluxo condicional e de repetição; arquivos e funções; programação funcional e orientada a objetos; módulos e pacotes; tratamento de erros; scripting e análise de dados. 
 </div>
 
 ### Projeto Final de Python - Análise de Dados de Inadimplência
