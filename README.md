@@ -6,11 +6,11 @@ Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânic
 
 ## Sumário<a name="Contents"></a>
 
-  1.[Python para Análise de Dados](#python-para-análise-de-dados)
+  1.[Python para Análise de Dados](#1python-para-análise-de-dados)
 
-  2.[Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM](#desenvolvimento-em-ciência-de-dados-e-metodologia-crisp---dm)
+  2.[Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM](#2desenvolvimento-em-ciência-de-dados-e-metodologia-crisp---dm)
 
-   3.[Python em Ciência de Dados](#python-em-ciência-de-dados)
+   3.[Python em Ciência de Dados](#3python-em-ciência-de-dados)
 
 <br />
 
