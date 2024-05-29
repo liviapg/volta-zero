@@ -47,7 +47,7 @@ Atividade para trabalhar etapas da metodologia CRISP - DM, envolvendo o desenvol
 
 ### Elementos Básicos de Python e Numpy - Parte I (Módulo 3)
 <div align="justify">
-Exercícios para trabalhar conceitos básicos de Python e Numpy.
+Atividades para trabalhar conceitos básicos de Python e Numpy.
 </div>
 
 <br />
@@ -57,7 +57,7 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 
 ### Elementos Básicos de Python e Numpy - Parte II (Módulo 3)
 <div align="justify">
-Exercícios para trabalhar conceitos básicos de Python e Numpy.
+Atividades para trabalhar conceitos básicos de Python e Numpy.
 </div>
 
 <br />
