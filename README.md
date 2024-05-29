@@ -75,7 +75,7 @@ Tópicos abordados: pandas e carga de dados; limpeza e preparação de dados; de
 
 ### Introdução ao Pandas e Carga de Dados (Módulo 4)
 <div align="justify">
-Atividades para trabalhar com DataFrames e Series e interação com APIs da Web e banco de dados.
+Atividades para trabalhar com DataFrames, Series, interação com APIs da Web e banco de dados.
 </div> 
 
 
