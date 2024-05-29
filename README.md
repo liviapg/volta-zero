@@ -7,32 +7,16 @@ Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânic
 ## Sumário<a name="Contents"></a>
 
   1.[Python para Análise de Dados](#python-para-análise-de-dados)
-  - Variáveis e tipos da dados
-  - Estrutura de dados
-  - Fluxo condicional e repetição
-  - Arquivos e funções
-  - Programação funcional e orientada a objetos
-  - Módulos e pacotes
-  - Tratamento de erros, scripting e análise de dados
-  - Projeto Final
-   
-  2.[Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM](#desenvolvimento-em-ciência-de-dados-e-metodologia-crisp---dm)
 
-  - Metodologia CRISP-DM
-  - Elementos básicos de Python e Numpy
+  2.[Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM](#desenvolvimento-em-ciência-de-dados-e-metodologia-crisp---dm)
 
    3.[Python em Ciência de Dados](#python-em-ciência-de-dados)
 
-   - Pandas e carga de dados
-   - Limpeza e preparação de dados
-   - Descritiva I
-   - Árvores I
-   - Git/GitHub - controle de versionamento
-
 <br />
 
-## Python para Análise de Dados
+## 1.Python para Análise de Dados
 
+Tópicos abordados:  variáveis e tipos da dados; estrutura de dados; fluxo condicional e de repetição; arquivos e funções; programação funcional e orientada a objetos; importação de módulos e pacotes; tratamento de erros; scripting e análise de dados. 
 ### Projeto Final de Python - Análise de Dados de Inadimplência
 <div align="justify">
 Exploração de dados de crédito de uma instituição financeira, com o intuito de trabalhar se um cliente é adimplente ou inadimplente (variável dependente representada pela coluna default). Visando assim entender o que faz um cliente desta mesma instituição deixar de honrar suas dívidas, tendo como base além do atributo de interesse, outros atributos como, por exemplo: salário, escolaridade, movimentação financeira, entre outros.
@@ -47,7 +31,9 @@ Exploração de dados de crédito de uma instituição financeira, com o intuito
 
 <br />
 
-## Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM
+## 2.Desenvolvimento em Ciência de Dados e Metodologia CRISP - DM
+
+Tópicos abordados: metodologia CRISP-DM; elementos básicos de Python e Numpy.
 
 ### Metodologia (Módulo 2)
 <div align="justify">
@@ -83,7 +69,9 @@ Exercícios para trabalhar conceitos básicos de Python e Numpy.
 
 <br />
 
-## Python em Ciência de Dados
+## 3.Python em Ciência de Dados
+
+Tópicos abordados: pandas e carga de dados; limpeza e preparação de dados; descritiva I; árvores I; Git/GitHub - controle de versionamento.
 
 ### Introdução ao Pandas e Carga de Dados (Módulo 4)
 <div align="justify">
