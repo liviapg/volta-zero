@@ -19,7 +19,7 @@ Coleção de notebooks iPython do curso de Ciência de Dados da Escola Britânic
 Tópicos abordados:  variáveis e tipos da dados; estrutura de dados; fluxo condicional e de repetição; arquivos e funções; programação funcional e orientada a objetos; módulos e pacotes; tratamento de erros; scripting e análise de dados. 
 </div>
 
-### Projeto Final de Python - Análise de Dados de Inadimplência
+### - Projeto Final de Python - Análise de Dados de Inadimplência
 <div align="justify">
 Exploração de dados de crédito de uma instituição financeira, com o intuito de trabalhar se um cliente é adimplente ou inadimplente (variável dependente representada pela coluna default). Visando assim entender o que faz um cliente desta mesma instituição deixar de honrar suas dívidas, tendo como base além do atributo de interesse, outros atributos como, por exemplo: salário, escolaridade, movimentação financeira, entre outros.
  </div>
