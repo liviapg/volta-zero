@@ -38,7 +38,7 @@ Exploração de dados de crédito de uma instituição financeira, com o intuito
 Tópicos abordados: metodologia CRISP-DM; elementos básicos de Python e Numpy.
 </div>
 
-### Metodologia (Módulo 2)
+### - Metodologia (Módulo 2)
 <div align="justify">
 Atividade para trabalhar etapas da metodologia CRISP - DM, envolvendo o desenvolvimento de um projeto guiado para a classificação de concessão de cartões de crédito e avaliação de clientes inadimplentes.
 </div>
@@ -48,22 +48,19 @@ Atividade para trabalhar etapas da metodologia CRISP - DM, envolvendo o desenvol
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/projeto_01_classificacao_de_credito.ipynb)
 <br />
 
-### Elementos Básicos de Python e Numpy - Parte I (Módulo 3)
+### - Elementos Básicos de Python e Numpy (Módulo 3)
+
 <div align="justify">
 Atividades para trabalhar conceitos básicos de Python e Numpy.
 </div>
-
 <br />
+
+- Parte I
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod03_ex01_python_basico.ipynb)
 <br />
 
-### Elementos Básicos de Python e Numpy - Parte II (Módulo 3)
-<div align="justify">
-Atividades para trabalhar conceitos básicos de Python e Numpy.
-</div>
-
-<br />
+- Parte II
 
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod03_ex02_instrucao.ipynb)
 <br />
@@ -77,15 +74,16 @@ Atividades para trabalhar conceitos básicos de Python e Numpy.
 Tópicos abordados: pandas e carga de dados; limpeza e preparação de dados; descritiva I; árvores I; Git/GitHub - controle de versionamento.
 </div>
 
-### Introdução ao Pandas e Carga de Dados (Módulo 4)
+### - Introdução ao Pandas e Carga de Dados (Módulo 4)
 <div align="justify">
 Atividades para trabalhar com DataFrames, Series, interação com APIs da Web e banco de dados.
 </div> 
+<br />
 
-
-#### Exercícios
+ - Atividades (Módulo 4)
 <div align="justify">
-Pratique 1 - aulas 1 e 2.
+<br />
+Aulas 1 e 2
 </div>
 
 <br />
@@ -94,7 +92,7 @@ Pratique 1 - aulas 1 e 2.
 <br />
 
 <div align="justify">
-Pratique 2 - aulas 3 a 5.
+Aulas 3 a 5
 </div>
 
 <br />
@@ -103,7 +101,7 @@ Pratique 2 - aulas 3 a 5.
 <br />
 
 <div align="justify">
-Pratique 3 - aulas 6 a 8.
+Aulas 6 a 8
 </div>
 
 <br />
