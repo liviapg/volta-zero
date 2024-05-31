@@ -110,3 +110,14 @@ Aulas 6 a 8
 <br />
 
 [Voltar ao sumário](#Contents)
+
+### - Limpeza e preparação de dados (Módulo 5)
+
+- Atividades (Módulo 5)
+<div align="justify">
+<br />
+Aulas 1 e 2
+</div>
+
+<br />
+
