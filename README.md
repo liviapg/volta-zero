@@ -116,7 +116,7 @@ Aulas 6 a 8
 - Atividades (Módulo 5)
 <div align="justify">
 <br />
-Aulas 1 e 2
+Aulas 1 a 3
 </div>
 
 <br />
