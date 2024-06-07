@@ -112,6 +112,10 @@ Aulas 6 a 8
 [Voltar ao sumário](#Contents)
 
 ### - Limpeza e preparação de dados (Módulo 5)
+<div align="justify">
+Atividades para tratar dados ausentes, categorização de valores numéricos e compreensão de amostragem.
+</div> 
+<br />
 
 - Atividades (Módulo 5)
 <div align="justify">
