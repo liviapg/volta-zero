@@ -137,6 +137,11 @@ Aulas 4 e 5
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod05_ex_aula_04_a_05.ipynb)
 <br />
 
+### - Descritiva I (Módulo 6)
+<div align="justify">
+Atividades para utilizar a biblioteca matplotlib e criação de gráficos para visualização de dados.
+</div> 
+<br />
 
 - Atividades (Módulo 6)
 <div align="justify">
