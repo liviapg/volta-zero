@@ -137,4 +137,26 @@ Aulas 4 e 5
 [![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod05_ex_aula_04_a_05.ipynb)
 <br />
 
+
+- Atividades (Módulo 6)
+<div align="justify">
+<br />
+Aulas 1 a 3
+</div>
+
+<br />
+
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod06_tarefa_1.ipynb)
+<br />
+
+<div align="justify">
+Aula 4
+</div>
+
+<br />
+
+[![Jupyter Logo](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/liviapg/volta-zero/blob/main/Atividades_Ebac/mod06_tarefa_2.ipynb)
+<br />
+
+
 [Voltar ao sumário](#Contents)
